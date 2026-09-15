@@ -7,6 +7,7 @@ A reusable, company-by-company workspace for interview research, preparation pla
 | Company | Role focus | Interview plan |
 |---|---|---|
 | [Textron Specialized Vehicles](companies/textron-specialized-vehicles/) | Production AI applications and enterprise integration | [Open plan](companies/textron-specialized-vehicles/INTERVIEW_PLAN.md) |
+| [EY](companies/ey/) | MLOps engineering, cloud infrastructure, and consulting | [Open plan](companies/ey/INTERVIEW_PLAN.md) |
 
 ## Repository structure
 
